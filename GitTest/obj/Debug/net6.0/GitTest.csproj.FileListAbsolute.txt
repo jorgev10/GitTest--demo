@@ -1,0 +1,15 @@
+/Users/jorgeluis/Projects/GitTest/GitTest/bin/Debug/net6.0/GitTest
+/Users/jorgeluis/Projects/GitTest/GitTest/bin/Debug/net6.0/GitTest.deps.json
+/Users/jorgeluis/Projects/GitTest/GitTest/bin/Debug/net6.0/GitTest.runtimeconfig.json
+/Users/jorgeluis/Projects/GitTest/GitTest/bin/Debug/net6.0/GitTest.dll
+/Users/jorgeluis/Projects/GitTest/GitTest/bin/Debug/net6.0/GitTest.pdb
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.csproj.AssemblyReference.cache
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.AssemblyInfoInputs.cache
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.AssemblyInfo.cs
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.csproj.CoreCompileInputs.cache
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.dll
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/refint/GitTest.dll
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.pdb
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/GitTest.genruntimeconfig.cache
+/Users/jorgeluis/Projects/GitTest/GitTest/obj/Debug/net6.0/ref/GitTest.dll
